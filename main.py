@@ -18,7 +18,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-html_code = f'<a class="big-font" href="{url}">🌳</a>'
+html_code = f'<a class="big-font" href="{url}">🌲</a>'
 st.markdown(html_code, unsafe_allow_html=True)
 
 
